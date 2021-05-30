@@ -7,7 +7,7 @@ function onResults(results) {
   const c = canvasElement.getContext('2d');
   c.fillStyle = "red";
   c.fillRect(10, 10, 125, 700);
-  if (results.multiHandLandmarks[0][0].x < 0.13) {
+  if (results.multiHandLandmarks[0][0].x < 0.20) {
     console.log("Completed");
     const c = canvasElement.getContext('2d');
     c.fillStyle = "blue";
