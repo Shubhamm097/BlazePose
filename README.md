@@ -43,4 +43,6 @@ If you'd like to request a new feature/approach, feel free to do so by opening a
 ## Credits
 - [BlazePose GitHub](https://google.github.io/mediapipe/solutions/pose.html)
 
-- [SBERT Documentation](https://www.sbert.net/)
+- [BlazePose Research Paper](https://arxiv.org/abs/2006.10204)
+
+- [Google AI Blog over BlazePose](https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)
