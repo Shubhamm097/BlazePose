@@ -5,7 +5,6 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Approach](#approach)
-  * [Run](#run)
   * [Bug / Feature Request](#bug---feature-request)
   * [Technology Stack](#technology-stack)
   * [Credits](#credits)
@@ -26,9 +25,6 @@ Google's BlazePose provides us with 33 points on the body alongside the visibili
 After that an area sort of can be created to track if the punch is being hit in those area or not.
 
 I have used two points for a hand each alongside the visibility parameter for those points to get the better results.
-
-## Run
-After downloading the dataset from [here](https://drive.google.com/file/d/1wQTSNIVk2YRliPCbjavAerzosynNAGng/view?usp=sharing), open a google colab notebook and run the cells.
 
 ## To Do
 1. Involve other body parts to make a full fitness regime.
